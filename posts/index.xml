@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on labaratorinis</title>
-    <link>Evald2001.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on labaratorinis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 </copyright>
-    <lastBuildDate>Sun, 31 Dec 2023 13:18:27 +0200</lastBuildDate><atom:link href="Evald2001.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 13:18:27 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Codepage</title>
-      <link>Evald2001.github.io/posts/codepage/</link>
+      <link>/posts/codepage/</link>
       <pubDate>Sun, 31 Dec 2023 13:18:27 +0200</pubDate>
       
-      <guid>Evald2001.github.io/posts/codepage/</guid>
+      <guid>/posts/codepage/</guid>
       <description>My Page #print(&amp;#34;Hello, world!&amp;#34;) </description>
       
     </item>
     
     <item>
       <title>Labaratorinio darbo uzduotis</title>
-      <link>Evald2001.github.io/posts/labaratorinis/</link>
+      <link>/posts/labaratorinis/</link>
       <pubDate>Sun, 31 Dec 2023 12:16:23 +0200</pubDate>
       
-      <guid>Evald2001.github.io/posts/labaratorinis/</guid>
+      <guid>/posts/labaratorinis/</guid>
       <description>lorem ipsum dolor sit amet, consectet adip Programming</description>
       
     </item>
